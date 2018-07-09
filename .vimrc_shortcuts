@@ -16,3 +16,12 @@ nnoremap <leader>,g :set number!<CR>
 nnoremap <leader>,r :set relativenumber!<CR>
 nnoremap <leader>,l :set cursorline!<CR>
 nnoremap <leader>,c :set cursorcolumn!<CR>
+"nnoremap <leader>d "_d
+"nnoremap <leader>dw "_dw
+"nnoremap <leader>dd "_dd
+nnoremap d "_d
+nnoremap dw "_dw
+nnoremap dd "_dd
+
+
+
